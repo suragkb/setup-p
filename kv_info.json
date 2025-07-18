@@ -1,12 +1,15 @@
 {
-    "vault_url": "https://hlx-vault.vault.azure.net/",
-    "client_id": "6323c304-8fbe-4237-b78e-1d490c693005",
-    "tenant_id": "dda99e3f-7de7-4048-a642-1e0d8af5c7b9",
-    "c_data": "rb.8Q~9zlW61.kiFrjooInUJ0KysK0otEg2NGawH",
-    "DB_1_NAME": "AKS-MYSQL-LOCALHOST-SECRET",
-    "RMQ_SERVER_ADDRESS": "cogniquest-rabbitmq",
-    "RMQ_SERVER_PORT": 5676,
-    "RMQ_USER": "admin",
-    "RMQ_USER_DATA": "admin@123",
-    "RMQ_EXCHANGE_NAME": ""
+    "vault_url": "https://hlx-vault.vault.azure.net/",
+    "client_id": "6323c304-8fbe-4237-b78e-1d490c693005",
+    "tenant_id": "dda99e3f-7de7-4048-a642-1e0d8af5c7b9",
+    "c_data": "rb.8Q~9zlW61.kiFrjooInUJ0KysK0otEg2NGawH",
+    "DB_1_NAME": "AKS-MYSQL-LOCALHOST-SECRET",
+    "RMQ_SERVER_ADDRESS": "cogniquest-rabbitmq",
+    "RMQ_SERVER_PORT": 5676,
+    "RMQ_USER": "admin",
+    "RMQ_USER_DATA": "admin@123",
+    "RMQ_EXCHANGE_NAME": "",
+    "USE_PROXY": false,
+    "PROXY_HTTP": "",
+    "PROXY_HTTPS": ""
 }
